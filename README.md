@@ -9,6 +9,7 @@ Resets the timer at any point you decide to head back to the Main Menu throughou
 This autosplitter logs when the run starts, splits and resets which can be seen with softwares like Trace Spy. File logging can be achieved if needed. Further logging update to possibly include which chapter split into
 
 ## Resources
+
 Leaderboards: none yet 
 Discord: none yet 
 Website: [dexterstardust.com](https://www.dexterstardust.com/) 
