@@ -10,7 +10,7 @@ This autosplitter logs when the run starts, splits and resets which can be seen 
 
 ## Resources
 
-Leaderboards: none yet 
-Discord: none yet 
-Website: [dexterstardust.com](https://www.dexterstardust.com/) 
+Leaderboards: none yet
+Discord: none yet
+Website: [dexterstardust.com](https://www.dexterstardust.com/)
 Game: [s.team/a/1647390](https://s.team/a/1647390/) ($9.99)
