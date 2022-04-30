@@ -87,3 +87,8 @@ exit
 {
     vars.Unity.Reset();
 }
+
+shutdown
+{
+	vars.Unity.Reset();
+}
